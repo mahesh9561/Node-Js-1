@@ -1,0 +1,42 @@
+1. setup express 
+2. mongodb connection
+
+3. set the EJS to express view engine
+
+
+4. Register Page 
+   Register Api
+5. Login Page
+   Login Api
+
+6. session based Auth
+ -- Middleware
+ -- Routes
+ -- Controllers
+ -- Models
+ -- Helpers
+ -- Config
+
+7. Dashboard Page
+8. Logout
+9. Logout from all device
+
+10. Backend Api
+11. Create Api
+12. Read Api
+13. Update Api
+14. Delete Api
+
+15. Dashboard Client 
+16. Axios 
+    Axios create Api
+    Axios edit Api
+    Axios delete Api
+    Axios read Api
+
+17. Pagination of Api's
+18. Rate limiting
+
+19. Deploy
+
+20. JWT Email Auth
